@@ -33,45 +33,45 @@
 
 | Lesson | Status | Notes file |
 |---|---|---|
-| 01-generative-ai-google-cloud | ⬜ Empty | — |
-| 02-foundation-models | ⬜ Empty | — |
-| 03-idea-to-app | ⬜ Empty | — |
-| 04-prompt-engineering | ⬜ Empty | — |
-| 05-deployment-and-model-tuning | ⬜ Empty | — |
+| 01-generative-ai-google-cloud | ✅ Done | [01-generative-ai-google-cloud.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/02-generative-ai/01-generative-ai-google-cloud.md) |
+| 02-foundation-models | ✅ Done | [02-foundation-models.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/02-generative-ai/02-foundation-models.md) |
+| 03-idea-to-app | ✅ Done | [03-idea-to-app.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/02-generative-ai/03-idea-to-app.md) |
+| 04-prompt-engineering | ✅ Done | [04-prompt-engineering.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/02-generative-ai/04-prompt-engineering.md) |
+| 05-deployment-and-model-tuning | ✅ Done | [05-deployment-and-model-tuning.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/02-generative-ai/05-deployment-and-model-tuning.md) |
 | 06-get-started-agent-studio | ⬜ Empty | — |
-| 07-ai-agents | ⬜ Empty | — |
-| 08-agent-building-google-cloud | ⬜ Empty | — |
-| 09-summary | ⬜ Empty | — |
-| 10-quiz | ⬜ Empty | — |
+| 07-ai-agents | ✅ Done | [07-ai-agents.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/02-generative-ai/07-ai-agents.md) |
+| 08-agent-building-google-cloud | ✅ Done | [08-agent-building-google-cloud.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/02-generative-ai/08-agent-building-google-cloud.md) |
+| 09-summary | ✅ Done | [09-summary.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/02-generative-ai/09-summary.md) |
+| 10-quiz | ✅ Done | [10-quiz.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/02-generative-ai/10-quiz.md) |
 
 ### 03-ai-development-options
 
 | Lesson | Status | Notes file |
 |---|---|---|
-| 01-introduction | ⬜ Empty | — |
-| 02-vertex-ai | ⬜ Empty | — |
-| 03-automl | ⬜ Empty | — |
-| 04-pretrained-apis | ⬜ Empty | — |
-| 05-custom-training | ⬜ Empty | — |
-| 06-lab-introduction | ⬜ Empty | — |
+| 01-introduction | ✅ Done | [01-introduction.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/03-ai-development-options/01-introduction.md) |
+| 02-vertex-ai | ✅ Done | [02-vertex-ai.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/03-ai-development-options/02-vertex-ai.md) |
+| 03-automl | ✅ Done | [03-automl.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/03-ai-development-options/03-automl.md) |
+| 04-pretrained-apis | ✅ Done | [04-pretrained-apis.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/03-ai-development-options/04-pretrained-apis.md) |
+| 05-custom-training | ✅ Done | [05-custom-training.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/03-ai-development-options/05-custom-training.md) |
+| 06-lab-introduction | ✅ Done | [06-lab-introduction.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/03-ai-development-options/06-lab-introduction.md) |
 | 07-entity-sentiment-analysis | ⬜ Empty | — |
-| 08-summary | ⬜ Empty | — |
-| 09-quiz | ⬜ Empty | — |
+| 08-summary | ✅ Done | [08-summary.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/03-ai-development-options/08-summary.md) |
+| 09-quiz | ✅ Done | [09-quiz.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/03-ai-development-options/09-quiz.md) |
 
 ### 04-ai-development-workflow
 
 | Lesson | Status | Notes file |
 |---|---|---|
-| 01-ml-workflow | ⬜ Empty | — |
-| 02-data-preparation | ⬜ Empty | — |
-| 03-model-development | ⬜ Empty | — |
-| 04-model-serving | ⬜ Empty | — |
-| 05-mlops-workflow-automation | ⬜ Empty | — |
-| 06-lab-introduction | ⬜ Empty | — |
+| 01-ml-workflow | ✅ Done | [01-ml-workflow.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/04-ai-development-workflow/01-ml-workflow.md) |
+| 02-data-preparation | ✅ Done | [02-data-preparation.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/04-ai-development-workflow/02-data-preparation.md) |
+| 03-model-development | ✅ Done | [03-model-development.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/04-ai-development-workflow/03-model-development.md) |
+| 04-model-serving | ✅ Done | [04-model-serving.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/04-ai-development-workflow/04-model-serving.md) |
+| 05-mlops-workflow-automation | ✅ Done | [05-mlops-workflow-automation.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/04-ai-development-workflow/05-mlops-workflow-automation.md) |
+| 06-lab-introduction | ✅ Done | [06-lab-introduction.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/04-ai-development-workflow/06-lab-introduction.md) |
 | 07-agent-platform-loan-risk-automl | ⬜ Empty | — |
-| 08-how-machine-learns | ⬜ Empty | — |
-| 09-summary | ⬜ Empty | — |
-| 10-quiz | ⬜ Empty | — |
+| 08-how-machine-learns | ✅ Done | [08-how-machine-learns.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/04-ai-development-workflow/08-how-machine-learns.md) |
+| 09-summary | ✅ Done | [09-summary.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/04-ai-development-workflow/09-summary.md) |
+| 10-quiz | ✅ Done | [10-quiz.md](03-introduction-to-ai-and-machine-learning-on-google-cloud/04-ai-development-workflow/10-quiz.md) |
 
 ---
 
@@ -79,5 +79,5 @@
 
 | Course | ✅ Done | 🔲 Pending | ⬜ Empty | Total |
 |---|---|---|---|---|
-| 03 — Intro to AI & ML on Google Cloud | 6 | 0 | 30 | 36 |
-| **Total** | **6** | **0** | **30** | **36** |
+| 03 — Intro to AI & ML on Google Cloud | 30 | 0 | 6 | 36 |
+| **Total** | **30** | **0** | **6** | **36** |
